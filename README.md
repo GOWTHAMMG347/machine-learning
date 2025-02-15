@@ -1,2 +1,2 @@
 # machine-learning
-classfication based repository
+machine learning based repository
